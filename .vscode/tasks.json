@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks":[
+        {
+            "type":"dotnet",
+            "task":"build C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\hata_yonetimi\\hata_yonetimi.csproj",
+            "file":"C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\hata_yonetimi\\hata_yonetimi.csproj",
+            "problemMatcher":[],
+            "label":"build for error handling",
+            "group":{
+                "kind":"build",
+                "isDefault":true
+            }
+        }
+    ],
+
+}
